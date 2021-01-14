@@ -5,7 +5,7 @@ From: Grey Wolf Analytics
 <br>
   To: Orionis Creations 
 <br>
-  Project Overview: To create a Character Fansite using the anapioficeandfire.com API.
+  Project Overview: To create a Character Fansite using the anapioficeandfire.com API. First Attempt at using the React Framework or working in Typescript.
 </p>
 
 <table>
