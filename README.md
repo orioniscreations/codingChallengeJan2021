@@ -64,3 +64,6 @@ Project Overview: To create a Character Fansite using the anapioficeandfire.com 
 </tbody>
 </table>
 
+<p>
+  <b>Due: January 16th, 2021 at 12AM</b>
+</p>
