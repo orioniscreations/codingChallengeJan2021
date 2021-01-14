@@ -36,8 +36,8 @@ From: Grey Wolf Analytics
     <td>Each Page must be Paginated</td>
   </tr>
    <tr>
-    <td>❌</td>
-    <td>Must include First, Previous, Next, and Last buttons</td>
+    <td>✔</td>
+    <td>Must include First and Last buttons</td>
   </tr>
    <tr>
     <td>❌</td>
