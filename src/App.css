@@ -1,5 +1,14 @@
+body{
+  background-image: url("/src/birdBack.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -35,4 +44,60 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.card {
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  height: fit-content;
+  margin: auto;
+  margin-top: 1rem;
+  
+  padding: 1rem;
+  position: relative;
+  width: 50%;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  position: relative;
+}
+
+.title{
+  margin: auto;
+}
+
+.titleImg{
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+  padding: 1rem;
+  width: auto;
+  max-width: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.pagination{
+  position: relative;
+  margin-left: 50%;
+  transform: translate(-50%);
+}
+
+.footer{
+  color: white;
+  font-size: 80%;
+  text-align: center;
+  width: 100%;
+}
+
+.footer a{
+  color: darkred;
+  
+}
+
+.infoBox{
+  color: white;
+  text-align: center;
+  width: 100%;
 }
