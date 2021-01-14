@@ -67,5 +67,13 @@ From: Grey Wolf Analytics
 </table>
 
 <p>
+  Legend:
+  <ul>
+    <li>✔ = Finished</li>
+    <li>❌ = Working on</li>
+  </ul>
+</p>
+
+<p>
   <b>Due: January 16th, 2021 at 12AM</b>
 </p>
