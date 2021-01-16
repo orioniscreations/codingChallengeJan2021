@@ -41,11 +41,7 @@ From: Grey Wolf Analytics
   </tr>
    <tr>
     <td>❌</td>
-    <td>First and Previous should be disabled on the First Page</td>
-  </tr>
-   <tr>
-    <td>❌</td>
-    <td>Last and Next should be disabled on the Last Page</td>
+    <td>First, last, next and Previous should be disabled on the First Page</td>
   </tr>
    <tr>
     <td>✔</td>
