@@ -71,5 +71,5 @@ From: Grey Wolf Analytics
 </p>
 
 <p>
-  <b>Due: January 16th, 2021 at 12AM</b>
+  <b>Due: January 16th, 2021 at 12PM</b>
 </p>
